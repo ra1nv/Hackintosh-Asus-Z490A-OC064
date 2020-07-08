@@ -1,4 +1,7 @@
-# 14/04/2020
+# 08/07/2020 更新支持MacOS 11.0beta
+![image](https://github.com/ra1nv/Hackintosh-Asus-Z270A-OC058/blob/master/img/QQ20200708-115050.png)
+
+
     本EFI理论适用于7，8，9代i7及以上带核显CPU
     使用前请确认自己平台解锁CFG和开启（或模拟）原生NVRAM
 如若不会以上步骤，可以参考[独行秀才博客](https://shuiyunxc.gitee.io)<br>
