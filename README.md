@@ -1,3 +1,6 @@
+# 15/11/2020 更新支持MacOS 11.0.1正式版
+
+
 # 08/07/2020 更新支持MacOS 11.0beta
 ![image](https://github.com/ra1nv/Hackintosh-Asus-Z270A-OC058/blob/master/img/QQ20200708-115050.png)
 
