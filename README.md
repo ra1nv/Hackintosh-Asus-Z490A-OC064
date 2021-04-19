@@ -11,7 +11,7 @@
 附上OC引导配置说明[OpenCore配置文字说明.pdf](https://github.com/ra1nv/Asus-Z270A-OC/blob/master/OpenCore%E9%85%8D%E7%BD%AE%E6%96%87%E5%AD%97%E8%AF%B4%E6%98%8E%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)
 # 配置/Feature
 系统/OS：Catalina 10.15.5 beta
-主板/motherboard：Asus-Z70A<br>
+主板/motherboard：Asus-Z270A<br>
 中央处理器/CPU：Intel Core i7-7700k 4.8Ghz-OC<br>
 内存/memory：Corsair 3200Mhz(c15)-OC 8Gx2<br>
 显卡/GPU：Sapphire 5500XT 8G / Intel HD Graphics 630<br>
